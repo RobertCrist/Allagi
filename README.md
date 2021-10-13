@@ -1,9 +1,9 @@
 # Allagi
 The project has three main components:
     
-    1. Allagi Class
-    2. Graph Class
-    3. Function classes
+   1. Allagi Class
+   2. Graph Class
+   3. Function classes
 
 Before you run any of the code that we have written, the DrawingPanel class must first be compilied 
 
