@@ -1,6 +1,6 @@
 # Allagi
 The project has three main components:
-    /n 1. Allagi Class
+    \n 1. Allagi Class
     /n 2. Graph Class
     /n 3. Function classes
 
